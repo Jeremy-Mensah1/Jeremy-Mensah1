@@ -61,7 +61,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### MovieBox Analysis
-![MovieBox dataset](images/excel/moviebox.jpg)
+![MovieBox dataset](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/moviebox.jpg?raw=true)
 *Exploratory analysis of movie ratings, revenue, and genres.*
 
 ---
