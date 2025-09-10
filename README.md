@@ -94,7 +94,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Suspicious / Case Images
-![killer](images/sql/killer.png)  
+![killer](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/killer.png?raw=true)  
 ![suspect](images/sql/suspect.png)
 
 ---
