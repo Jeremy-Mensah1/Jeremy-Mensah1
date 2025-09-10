@@ -75,7 +75,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### COVID Rate & Totals
-![COVID rate](images/sql/covid_rate.png)  
+![COVID rate](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/covid_rates.png?raw=true)  
 ![COVID totals](images/sql/covid_totals.png)  
 *Queries and visual snapshots summarizing case-rate and totals by region.*
 
