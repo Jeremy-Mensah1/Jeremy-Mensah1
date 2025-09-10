@@ -26,7 +26,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### HR Dashboard
-![HR dashboard](images/powerbi/hr_dashboard.jpg)
+![HR dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/hr_dashboard.jpg?raw=true)
 *Human Resources analytics — employee satisfaction, attrition, promotions.*  
 **Tools:** Power BI, Excel
 
