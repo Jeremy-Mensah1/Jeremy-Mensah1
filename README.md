@@ -49,7 +49,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ## 📊 Excel Projects
 
 ### GDP Analysis
-![GDP chart](images/excel/gdp.png)
+![GDP chart](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/gdp.png?raw=true)
 *Trend analysis and visual exploration of GDP data.*
 
 ---
