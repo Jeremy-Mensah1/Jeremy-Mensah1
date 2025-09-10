@@ -19,7 +19,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Global Health Dashboard
-![Global health dashboard](images/powerbi/global_health_dashboard.jpg)
+![Global health dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/global_health_dashboard.jpg?raw=true)
 *Interactive dashboard summarizing health indicators across countries.*  
 **Tools:** Power BI, Excel
 
