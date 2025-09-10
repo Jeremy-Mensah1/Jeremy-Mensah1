@@ -1,3 +1,12 @@
+# 👋 Hi — I'm Jeremy Mensah
+
+**Data Analyst • Power BI • Excel • SQL • Disaster Management**
+
+Welcome — this GitHub profile is my portfolio. Below are my featured projects grouped by tool (Power BI, Excel, SQL). Click project links to open the project repositories (if available), or scroll images and notes below.
+
+---
+
+## ⚙️ Repo / images layout (create these folders in this same repo)
 
 > **Note:** filenames must match exactly (lowercase & underscores) as above so the README shows the images.
 
