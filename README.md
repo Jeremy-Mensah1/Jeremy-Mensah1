@@ -10,7 +10,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 
 ## 📂 Power BI Projects
 
-### Global Cybersecurity Threats (2020–2024)
+### Global Cybersecurity Threats (2015–2024)
 ![Cybersecurity dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/cybersecurity_dashboard.jpg?raw=true)
 *Power BI dashboard that analyses cyber incidents by country, attack type, industry, and estimated losses.*  
 **Tools:** Power BI, DAX, Excel  
