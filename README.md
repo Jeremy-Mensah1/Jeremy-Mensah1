@@ -1,128 +1,117 @@
-# 👋 Hi — I'm Jeremy Mensah
+# 👋 Hi, I'm Jeremy Mensah
 
-**Data Analyst • Power BI • Excel • SQL • Disaster Management**
+**Data Analyst | Power BI | Excel | SQL | Disaster Management**  
 
-Welcome — this GitHub profile is my portfolio. Below are my featured projects grouped by tool (Power BI, Excel, SQL). Click project links to open the project repositories (if available), or scroll images and notes below.
-
-
-
----
-
-## 📂 Power BI Projects
-
-### Global Cybersecurity Threats (2015–2024)
-![Cybersecurity dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/cybersecurity_dashboard.jpg?raw=true)
-*Power BI dashboard that analyses cyber incidents by country, attack type, industry, and estimated losses.*  
-**Tools:** Power BI, DAX, Excel  
-**Repo:** `https://github.com/Jeremy-Mensa1/Cybersecurity-Threats-Dashboard` (if you made this repo)
+Welcome to my **Data Analytics Portfolio**!  
+This repository showcases my key projects in **Power BI, Excel, and SQL**, including dashboards, data visualizations, and SQL analyses.  
 
 ---
+
+## 🔴 Power BI Projects
+
+### Cybersecurity Threats Dashboard (2015–2024)
+![Cybersecurity Dashboard](Power_BI_project/cybersecurity__dashboard.jpg)  
+Visualizing global cyber incidents by country, attack type, industry, and financial loss.  
+[View Image](Power_BI_project/cybersecurity__dashboard.jpg)
 
 ### Global Health Dashboard
-![Global health dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/global_health_dashboard.jpg?raw=true)
-*Interactive dashboard summarizing health indicators across countries.*  
-**Tools:** Power BI, Excel
+![Global Health Dashboard](Power_BI_project/global__health__dashboard.jpg)  
+Analyzing global health trends with interactive Power BI visuals.  
+[View Image](Power_BI_project/global__health__dashboard.jpg)
 
----
+### HR Analytics Dashboard
+![HR Dashboard](Power_BI_project/hr__dashboard.jpg)  
+Human resource insights including satisfaction, evaluation, promotions, and retention.  
+[View Image](Power_BI_project/hr__dashboard.jpg)
 
-### HR Dashboard
-![HR dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/hr_dashboard.jpg?raw=true)
-*Human Resources analytics — employee satisfaction, attrition, promotions.*  
-**Tools:** Power BI, Excel
-
----
-
-### Stock Performance Dashboard
-![Stock dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/stock.jpg?raw=true)
-*Stock price analysis and trend indicators (Adj Close, Volume).*  
-**Tools:** Power BI, Excel
-
----
+### Stock Market Dashboard
+![Stock Dashboard](Power_BI_project/stock.jpg)  
+Visualizing stock performance over time with Power BI.  
+[View Image](Power_BI_project/stock.jpg)
 
 ### Superstore Sales Dashboard
-![Superstore dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/superstore.jpg?raw=true)
-*Sales KPIs, category breakdowns, and regional performance.*  
-**Tools:** Power BI
+![Superstore Dashboard](Power_BI_project/superstore.jpg)  
+Analyzing sales, product performance, and revenue trends for a superstore dataset.  
+[View Image](Power_BI_project/superstore.jpg)
 
 ---
 
-## 📊 Excel Projects
+## 🟢 Excel Projects
 
 ### GDP Analysis
-![GDP chart](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/gdp.png?raw=true)
-*Trend analysis and visual exploration of GDP data.*
+![GDP](Excel_project/GDP.png)  
+Visualizing country GDP trends using Excel charts and tables.  
+[View Image](Excel_project/GDP.png)
+
+### Housing Data Analysis
+![Housing](Excel_project/housing.jpg)  
+Analyzing housing data for insights on pricing and trends.  
+[View Image](Excel_project/housing.jpg)
+
+### Movie Box Office Analysis
+![Moviebox](Excel_project/moviebox.jpg)  
+Tracking and visualizing movie performance over time.  
+[View Image](Excel_project/moviebox.jpg)
 
 ---
 
-### Housing Market Analysis
-![Housing market](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/housing.jpg?raw=true)
-*Housing price trends and affordability metrics.*
+## 🔵 SQL Projects
+
+### Bookstore Database Schema
+![Bookstore Schema](SQL_project/bookstore__schema.png)  
+Database schema for a bookstore management system.  
+[View Image](SQL_project/bookstore__schema.png)
+
+### COVID-19 Rate Analysis
+![COVID Rate](SQL_project/covid__rate.png)  
+Analyzing COVID-19 infection rates using SQL queries.  
+[View Image](SQL_project/covid__rate.png)
+
+### COVID-19 Totals
+![COVID Totals](SQL_project/covid__totals.png)  
+Aggregated COVID-19 statistics across regions.  
+[View Image](SQL_project/covid__totals.png)
+
+### Crime Scene Analysis
+![Crime Scene](SQL_project/crime__sin.png)  
+SQL analysis on crime data for investigative insights.  
+[View Image](SQL_project/crime__sin.png)
+
+### Fraud Detection QueryBot
+![Fraud Querybot](SQL_project/fraud__querybot.png)  
+QueryBot automation for detecting fraudulent transactions.  
+[View Image](SQL_project/fraud__querybot.png)
+
+### Killer Case Study
+![Killer](SQL_project/killer.png)  
+SQL-based analysis for tracking criminal cases.  
+[View Image](SQL_project/killer.png)
+
+### Suspect Database
+![Suspect](SQL_project/suspect.png)  
+Database overview of suspects with analysis queries.  
+[View Image](SQL_project/suspect.png)
 
 ---
 
-### MovieBox Analysis
-![MovieBox dataset](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/moviebox.jpg?raw=true)
-*Exploratory analysis of movie ratings, revenue, and genres.*
+## 🧑‍💻 About Me
+
+- Diploma in **Disaster Management**  
+- Studied **Data Analytics** at BIZMARROW Technologies  
+- Currently pursuing **BSc Business Computing & Information Systems** at IPMC  
+- Skilled in **Power BI, Excel, SQL, Data Visualization, Report Writing**  
+- Languages: English, Fante, Twi  
 
 ---
 
-## 🗄️ SQL Projects (schemas & queries)
+## 📬 Contact
 
-### Bookstore Schema
-![Bookstore schema](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/bookstore_schema.png?raw=true)
-*Database schema design for bookstore inventory and sales.*
-
----
-
-### COVID Rate & Totals
-![COVID rate](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/covid_rates.png?raw=true)  
-![COVID totals](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/covid_totals.png?raw=true)  
-*Queries and visual snapshots summarizing case-rate and totals by region.*
-
----
-
-### Crime Analysis (crime_sin)
-![Crime analysis](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/crime_scene.png?raw=true)
-*SQL queries and charts for crime incidence and patterns.*
-
----
-
-### Fraud Detection — QueryBot
-![Fraud querybot](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/fraud_querry.png?raw=true)
-*SQL used to detect suspicious transactions and patterns.*
-
----
-
-### Suspicious / Case Images
-![killer](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/killer.png?raw=true)  
-![suspect](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/suspects.png?raw=true)
-
----
-
-## 📌 Short project notes & how to view
-- For each project I include: **screenshot(s)** (above), **data files** (if small) and a **project README** in the specific repo (when available).  
-- If you want a single project page in this profile, create a folder `/projects/<project-name>/` and add `README.md`, data samples, and images there — then link it from this README.
-
----
-
-## 🧾 About me
-- Diploma — **Disaster Management**  
-- Studied Data Analytics — **BIZMARROW Technologies**  
-- Currently studying **BSc Business Computing & Information Systems (IPMC)**  
-- Skills: **Power BI • Excel • SQL • Data Visualization • Report Writing**  
-- Languages: English, Fante, Twi
-
----
-
-## 📫 Contact
 - Email: [mensahjeremy353@gmail.com](mailto:mensahjeremy353@gmail.com)  
-- Phone: +233 539 251 740
+- Phone: +233 539 251 740  
 
 ---
 
-## ✅ Upload checklist (quick)
-1. Create folders in this repo: `images/powerbi`, `images/excel`, `images/sql`.  
-2. Upload the exact image files from your laptop into the matching folder.  
-3. Commit the changes. The images will render in this README automatically.
+📌 *More projects will be added soon!*
+
 
 
