@@ -40,7 +40,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Superstore Sales Dashboard
-![Superstore dashboard](images/powerbi/superstore.jpg)
+![Superstore dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/superstore.jpg?raw=true)
 *Sales KPIs, category breakdowns, and regional performance.*  
 **Tools:** Power BI
 
