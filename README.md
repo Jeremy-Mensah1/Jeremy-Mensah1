@@ -82,7 +82,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Crime Analysis (crime_sin)
-![Crime analysis](images/sql/crime_sin.png)
+![Crime analysis](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/crime_scene.png?raw=true)
 *SQL queries and charts for crime incidence and patterns.*
 
 ---
