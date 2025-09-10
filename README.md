@@ -69,7 +69,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ## 🗄️ SQL Projects (schemas & queries)
 
 ### Bookstore Schema
-![Bookstore schema](images/sql/bookstore_schema.png)
+![Bookstore schema](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/bookstore_schema.png?raw=true)
 *Database schema design for bookstore inventory and sales.*
 
 ---
