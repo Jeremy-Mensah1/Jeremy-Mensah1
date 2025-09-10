@@ -88,7 +88,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Fraud Detection — QueryBot
-![Fraud querybot](images/sql/fraud_querybot.png)
+![Fraud querybot](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/fraud_querry.png?raw=true)
 *SQL used to detect suspicious transactions and patterns.*
 
 ---
