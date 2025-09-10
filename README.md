@@ -10,7 +10,7 @@ This repository showcases my key projects in **Power BI, Excel, and SQL**, inclu
 ## 🔴 Power BI Projects
 
 ### Cybersecurity Threats Dashboard (2015–2024)
-![Cybersecurity Dashboard](Power_BI_project/cybersecurity__dashboard.jpg)  
+![Cybersecurity Dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/cybersecurity_dashboard.jpg?raw=true)  
 Visualizing global cyber incidents by country, attack type, industry, and financial loss.  
 [View Image](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/cybersecurity_dashboard.jpg?raw=true)
 
