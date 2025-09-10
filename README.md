@@ -55,7 +55,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Housing Market Analysis
-![Housing market](images/excel/housing.jpg)
+![Housing market](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/housing.jpg?raw=true)
 *Housing price trends and affordability metrics.*
 
 ---
