@@ -33,7 +33,7 @@ Welcome — this GitHub profile is my portfolio. Below are my featured projects 
 ---
 
 ### Stock Performance Dashboard
-![Stock dashboard](images/powerbi/stock.jpg)
+![Stock dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/stock.jpg?raw=true)
 *Stock price analysis and trend indicators (Adj Close, Volume).*  
 **Tools:** Power BI, Excel
 
