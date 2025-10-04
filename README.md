@@ -69,9 +69,9 @@ Aggregated COVID-19 statistics across regions.
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/covid_totals.png)
 
 ### Crime Scene Analysis
-![Crime Scene](SQL_project/crime__sin.png)  
+![Crime Scene](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/crime_scene.png?raw=true)  
 SQL analysis on crime data for investigative insights.  
-[View Image](SQL_project/crime__sin.png)
+[View Image](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/crime_scene.png?raw=true)
 
 ### Fraud Detection QueryBot
 ![Fraud Querybot](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/fraud_querry.png)  
