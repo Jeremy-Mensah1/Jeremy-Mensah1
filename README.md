@@ -30,9 +30,9 @@ Visualizing stock performance over time with Power BI.
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/stock.jpg)
 
 ### Superstore Sales Dashboard
-![Superstore Dashboard](Power_BI_project/superstore.jpg)  
+![Superstore Dashboard](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/superstore.jpg)  
 Analyzing sales, product performance, and revenue trends for a superstore dataset.  
-[View Image](Power_BI_project/superstore.jpg)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/superstore.jpg)
 
 ---
 
