@@ -43,15 +43,11 @@ Analyzing sales, product performance, and revenue trends for a superstore datase
 Visualizing country GDP trends using Excel charts and tables.  
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/gdp.png)
 
-### Housing Data Analysis
-![Housing](Excel_project/housing.jpg)  
-Analyzing housing data for insights on pricing and trends.  
-[View Image](Excel_project/housing.jpg)
 
 ### Movie Box Office Analysis
-![Moviebox](Excel_project/moviebox.jpg)  
+![Moviebox](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/moviebox.jpg)  
 Tracking and visualizing movie performance over time.  
-[View Image](Excel_project/moviebox.jpg)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/moviebox.jpg)
 
 ---
 
