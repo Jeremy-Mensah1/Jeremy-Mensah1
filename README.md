@@ -74,9 +74,9 @@ SQL analysis on crime data for investigative insights.
 [View Image](SQL_project/crime__sin.png)
 
 ### Fraud Detection QueryBot
-![Fraud Querybot](SQL_project/fraud__querybot.png)  
+![Fraud Querybot](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/fraud_querry.png)  
 QueryBot automation for detecting fraudulent transactions.  
-[View Image](SQL_project/fraud__querybot.png)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/fraud_querry.png)
 
 ### Killer Case Study
 ![Killer](SQL_project/killer.png)  
