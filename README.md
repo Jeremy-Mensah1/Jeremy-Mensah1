@@ -64,9 +64,9 @@ Analyzing COVID-19 infection rates using SQL queries.
 [View Image](SQL_project/covid__rate.png)
 
 ### COVID-19 Totals
-![COVID Totals](SQL_project/covid__totals.png)  
+![COVID Totals](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/covid_totals.png)  
 Aggregated COVID-19 statistics across regions.  
-[View Image](SQL_project/covid__totals.png)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/covid_totals.png)
 
 ### Crime Scene Analysis
 ![Crime Scene](SQL_project/crime__sin.png)  
