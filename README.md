@@ -25,9 +25,9 @@ Human resource insights including satisfaction, evaluation, promotions, and rete
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/hr_dashboard.jpg)
 
 ### Stock Market Dashboard
-![Stock Dashboard](Power_BI_project/stock.jpg)  
+![Stock Dashboard](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/stock.jpg)  
 Visualizing stock performance over time with Power BI.  
-[View Image](Power_BI_project/stock.jpg)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/stock.jpg)
 
 ### Superstore Sales Dashboard
 ![Superstore Dashboard](Power_BI_project/superstore.jpg)  
