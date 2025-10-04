@@ -79,9 +79,9 @@ QueryBot automation for detecting fraudulent transactions.
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/fraud_querry.png)
 
 ### Killer Case Study
-![Killer](SQL_project/killer.png)  
+![Killer](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/killer.png)  
 SQL-based analysis for tracking criminal cases.  
-[View Image](SQL_project/killer.png)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/killer.png)
 
 ### Suspect Database
 ![Suspect](SQL_project/suspect.png)  
