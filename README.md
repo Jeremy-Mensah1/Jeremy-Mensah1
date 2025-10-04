@@ -20,9 +20,9 @@ Analyzing global health trends with interactive Power BI visuals.
 [View Image](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/5ef0e7852585b05d5c9b24f612cf0730260cabd1/global_health_dashboard.jpg?raw=true)
 
 ### HR Analytics Dashboard
-![HR Dashboard](Power_BI_project/hr__dashboard.jpg)  
+![HR Dashboard](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/hr_dashboard.jpg)  
 Human resource insights including satisfaction, evaluation, promotions, and retention.  
-[View Image](Power_BI_project/hr__dashboard.jpg)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/5ef0e7852585b05d5c9b24f612cf0730260cabd1/hr_dashboard.jpg)
 
 ### Stock Market Dashboard
 ![Stock Dashboard](Power_BI_project/stock.jpg)  
