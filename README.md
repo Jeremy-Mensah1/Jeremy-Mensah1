@@ -15,9 +15,9 @@ Visualizing global cyber incidents by country, attack type, industry, and financ
 [View Image](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/main/cybersecurity_dashboard.jpg?raw=true)
 
 ### Global Health Dashboard
-![Global Health Dashboard](Power_BI_project/global__health__dashboard.jpg)  
+![Global Health Dashboard](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/5ef0e7852585b05d5c9b24f612cf0730260cabd1/global_health_dashboard.jpg?raw=true)  
 Analyzing global health trends with interactive Power BI visuals.  
-[View Image](Power_BI_project/global__health__dashboard.jpg)
+[View Image](https://github.com/Jeremy-Mensah1/Jeremy-Mensah1/blob/5ef0e7852585b05d5c9b24f612cf0730260cabd1/global_health_dashboard.jpg?raw=true)
 
 ### HR Analytics Dashboard
 ![HR Dashboard](Power_BI_project/hr__dashboard.jpg)  
