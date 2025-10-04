@@ -54,9 +54,9 @@ Tracking and visualizing movie performance over time.
 ## 🔵 SQL Projects
 
 ### Bookstore Database Schema
-![Bookstore Schema](SQL_project/bookstore__schema.png)  
+![Bookstore Schema](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/bookstore_schema.png)  
 Database schema for a bookstore management system.  
-[View Image](SQL_project/bookstore__schema.png)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/bookstore_schema.png)
 
 ### COVID-19 Rate Analysis
 ![COVID Rate](SQL_project/covid__rate.png)  
