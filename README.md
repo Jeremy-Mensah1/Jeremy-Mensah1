@@ -59,9 +59,9 @@ Database schema for a bookstore management system.
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/bookstore_schema.png)
 
 ### COVID-19 Rate Analysis
-![COVID Rate](SQL_project/covid__rate.png)  
+![COVID Rate](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/covid_rates.png)  
 Analyzing COVID-19 infection rates using SQL queries.  
-[View Image](SQL_project/covid__rate.png)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/covid_rates.png)
 
 ### COVID-19 Totals
 ![COVID Totals](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/covid_totals.png)  
