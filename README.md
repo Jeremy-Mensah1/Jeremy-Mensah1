@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jeremy Mensah
+# 👋 Hi, I'm Jeremy Kenneth Mensah
 
 **Data Analyst | Power BI | Excel | SQL | Disaster Management**  
 
@@ -84,9 +84,9 @@ SQL-based analysis for tracking criminal cases.
 [View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/killer.png)
 
 ### Suspect Database
-![Suspect](SQL_project/suspect.png)  
+![Suspect](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/suspects.png)  
 Database overview of suspects with analysis queries.  
-[View Image](SQL_project/suspect.png)
+[View Image](https://raw.githubusercontent.com/Jeremy-Mensah1/Jeremy-Mensah1/84966fec577b2515ec8973a0ca264fad2cfbd32b/suspects.png)
 
 ---
 
@@ -94,7 +94,7 @@ Database overview of suspects with analysis queries.
 
 - Diploma in **Disaster Management**  
 - Studied **Data Analytics** at BIZMARROW Technologies  
-- Currently pursuing **BSc Business Computing & Information Systems** at IPMC  
+- Currently pursuing **BSc Business Computing & Information Systems** at IPMC NCC 
 - Skilled in **Power BI, Excel, SQL, Data Visualization, Report Writing**  
 - Languages: English, Fante, Twi  
 
@@ -103,7 +103,7 @@ Database overview of suspects with analysis queries.
 ## 📬 Contact
 
 - Email: [mensahjeremy353@gmail.com](mailto:mensahjeremy353@gmail.com)  
-- Phone: +233 539 251 740  
+- Phone: +233 59 497 5931  
 
 ---
 
